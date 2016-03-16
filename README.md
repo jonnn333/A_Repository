@@ -1,8 +1,8 @@
 # A_Repository
 
-#include <iostream>
-#include <string>
-#include <vectors>
+include <iostream>
+include <string>
+include <vectors>
 
 using std::cout;
 
